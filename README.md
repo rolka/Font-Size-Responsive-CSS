@@ -8,7 +8,7 @@ All sizes are computed via JavaScript to fit into window in best possible way. S
 Demo: [JSFiddle][1]
 
 
-  [1]: http://fiddle.jshell.net/dgJaK/5/show/
+  [1]: http://fiddle.jshell.net/dgJaK/5/
   
   
 
