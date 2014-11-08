@@ -2,7 +2,7 @@ Font-Size - Responsive Typography CSS
 ==========================
 
 Font size relative to window size via media queries. Support for viewport sized typography(vw) and fallback to pixels. Keep text with proportional size on different screens. Scale to minimum size of 12px.
-All sizes are computed via JavaScript to fit into window in best possible way. Sizes are computed based on most popular fonts used for web. After this process I've manually adjust them for best results. 
+All sizes are computed via JavaScript to fit into window in best possible way. Sizes are computed based on most popular fonts used for web. After this process I've manually adjust them for best results.
 
 
 Demo: [JSFiddle][1]
